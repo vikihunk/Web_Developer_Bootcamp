@@ -1,0 +1,39 @@
+h1 {
+	padding: 60px;
+	background: #1abc9c;
+	color: white;
+	font-size: 30px;
+	margin: 0 auto;
+}
+
+table {
+	align-self: center;
+	width: 500px;
+	height: 500px;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+#txtbox {
+	margin: 25px 50px 25px;
+	height: 100px;
+	width: 100px;
+	align-self: center;
+	font-size: 40pt;
+	align-content: center;
+	border: transparent;
+	text-align: 
+}
+
+.horizontal {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.vertical {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
